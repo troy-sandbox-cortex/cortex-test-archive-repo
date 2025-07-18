@@ -1,0 +1,6 @@
+openapi: 3.0.1
+info:
+  title: Test Archived Repo Service
+  description: Test service that lives in an archived repo.
+  x-cortex-tag: test-archived-repo-service
+  x-cortex-type: service
